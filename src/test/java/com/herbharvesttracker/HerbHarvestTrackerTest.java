@@ -1,4 +1,4 @@
-package com.windowseat.herb;
+package com.herbharvesttracker;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

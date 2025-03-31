@@ -1,4 +1,4 @@
-package com.windowseat.herb;
+package com.herbharvesttracker;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
